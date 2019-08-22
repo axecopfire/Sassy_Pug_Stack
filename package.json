@@ -1,23 +1,24 @@
 {
-  "name": "Sassy_Pug_Stack",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/axecopfire/Sassy_Pug_Stack.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/axecopfire/Sassy_Pug_Stack/issues"
-  },
-  "homepage": "https://github.com/axecopfire/Sassy_Pug_Stack#readme",
-  "devDependencies": {
-    "gulp": "^4.0.2"
-  }
-}
+	"dependencies": {
+		"@babel/core": "^7.5.5",
+		"@babel/preset-env": "^7.5.5",
+		"gulp": "^4.0.2",
+		"gulp-babel": "^8.0.0",
+		"gulp-pug": "^4.0.1",
+		"gulp-sass": "^4.0.2",
+		"node-sass": "^4.12.0"
+	},
+	"name": "temp",
+	"version": "1.0.0",
+	"main": "gulpfile.js",
+	"devDependencies": {},
+	"scripts": {
+		"start": "gulp watch"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": ""
+ }
+ 
+ 
+ 
