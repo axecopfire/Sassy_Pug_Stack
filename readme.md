@@ -10,6 +10,14 @@
 
 Sassy Pug Stack is for developers who have learned the basics of web dev fundamentals and understand the basics of vanilla html, css, and js but feel like they have plateaued. This project is built to help you learn about how to start building your own professional workflows by using html/css/js preprocessors and using a task automation tool.
 
+## Technologies
+
+#### The Preprocessors
+- [PugJS](https://pugjs.org/api/getting-started.html) makes writing html super easy by templating and preprocessing HTML.
+- [Sass](https://sass-lang.com/) makes writiing CSS super easy by preprocessing css.
+- [Babel](https://babeljs.io/) makes writing JS super great because now you can write ES6!
+
+
 ## Get Started
 *note: do not input the `$` character. This just means put the below into a command line prompt*
 ```Shell
@@ -17,4 +25,18 @@ $git clone https://github.com/axecopfire/Sassy_Pug_Stack
 $cd Sassy_Pug_Stack
 $npm install
 $npm run watch
+```
+
+## Folder Structure
+As the developer you will work out of the `src` directory. `Gulp` will take your files, compile them down into vanilla code and place them in a `public` directory. 
+
+The `src` directory looks like
+```
+src/
+	|- views/
+	|-- Pug files
+	|- sass/
+	|-- Sass files
+	|- js/
+	|-- Javascript files
 ```
