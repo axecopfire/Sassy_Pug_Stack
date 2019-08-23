@@ -16,21 +16,21 @@ gulp.task("js", function() {
        presets: ["@babel/env"]
      })
    )
-   .pipe(gulp.dest("dist"));
+   .pipe(gulp.dest("public"));
 });
 
 gulp.task("sass", function() {
  return gulp
    .src("src/sass/**/*.sass")
    .pipe(sass().on("error", sass.logError))
-   .pipe(gulp.dest("./css"));
+   .pipe(gulp.dest("public"));
 });
 
 gulp.task("pug", function() {
  return gulp
    .src("src/views/**/.pug")
    .pipe(pug())
-   .pipe(gulp.dest("dist"));
+   .pipe(gulp.dest("public"));
 });
 
 // Gulp Watch
