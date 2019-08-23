@@ -6,8 +6,8 @@
 
 ## Background
 
-[Introduction](https://dev.to/schusterbraun/introducing-the-sassy-pug-stack-a-case-for-a-pit-stop-on-the-way-to-a-js-framework-12pf)
-[The talk](https://docs.google.com/presentation/d/13CHY-28xVY1oHovsC9Pb-C4AheToUrbXRAZH7lXGAVg/edit?usp=sharing)
+- [Introduction: The Blog](https://dev.to/schusterbraun/introducing-the-sassy-pug-stack-a-case-for-a-pit-stop-on-the-way-to-a-js-framework-12pf)
+- [Introduction: The Powerpoint](https://docs.google.com/presentation/d/13CHY-28xVY1oHovsC9Pb-C4AheToUrbXRAZH7lXGAVg/edit?usp=sharing)
 
 Sassy Pug Stack is for developers who have learned the basics of web dev fundamentals and understand the basics of vanilla html, css, and js but feel like they have plateaued. This project is built to help you learn about how to start building your own professional workflows by using html/css/js preprocessors and using a task automation tool.
 
