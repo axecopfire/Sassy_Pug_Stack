@@ -11,7 +11,10 @@
 Sassy Pug Stack is for developers who have learned the basics of web dev fundamentals and understand the basics of vanilla html, css, and js but feel like they have plateaued. This project is built to help you learn about how to start building your own professional workflows by using html/css/js preprocessors and using a task automation tool.
 
 ## Get Started
-`git clone https://github.com/axecopfire/Sassy_Pug_Stack`
-`cd Sassy_Pug_Stack`
-`npm install`
-`npm run watch`
+*note: do not input the `$` character. This just means put the below into a command line prompt*
+```Shell
+$git clone https://github.com/axecopfire/Sassy_Pug_Stack
+$cd Sassy_Pug_Stack
+$npm install
+$npm run watch
+```
