@@ -13,7 +13,8 @@
 	"main": "gulpfile.js",
 	"devDependencies": {},
 	"scripts": {
-		"start": "gulp watch"
+		"dev": "gulp dev",
+		"build": "gulp build"
 	},
 	"author": "",
 	"license": "ISC",
