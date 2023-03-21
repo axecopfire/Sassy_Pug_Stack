@@ -9,7 +9,10 @@
 - [Introduction: The Blog](https://dev.to/schusterbraun/introducing-the-sassy-pug-stack-a-case-for-a-pit-stop-on-the-way-to-a-js-framework-12pf)
 - [Introduction: The Powerpoint](https://docs.google.com/presentation/d/13CHY-28xVY1oHovsC9Pb-C4AheToUrbXRAZH7lXGAVg/edit?usp=sharing)
 
-Sassy Pug Stack is for developers who have learned the basics of web dev fundamentals and understand the basics of vanilla html, css, and js but feel like they have plateaued. This project is built to help you learn about how to start building your own professional workflows by using html/css/js preprocessors and using a task automation tool.
+Sassy Pug Stack is for developers who have learned the basics of web dev fundamentals and understand the basics of vanilla html, css, and js but feel like they have plateaued. This project is built to help you learn about how to start building your own professional workflows by using html/css/js preprocessors and using a task automation tool. 
+
+## Note
+This meant solely for education! Don't use this as a project starter. I don't maintain this project. Please use something better like [ParcelJS](https://parceljs.org/docs/), which has support for all these preprocessors.
 
 ## Technologies
 

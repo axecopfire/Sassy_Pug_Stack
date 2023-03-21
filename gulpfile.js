@@ -2,7 +2,7 @@
 
 const gulp = require("gulp");
 const babel = require("gulp-babel");
-const sass = require("gulp-sass");
+const sass = require("gulp-sass")(require('sass'));
 const pug = require("gulp-pug");
 
 sass.compiler = require("node-sass");
